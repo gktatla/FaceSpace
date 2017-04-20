@@ -48,6 +48,7 @@ var StatusComponent = React.createClass({
         })
     },
 
+    // what you see
     render () {
         return (
             <div>
